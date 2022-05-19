@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veidz&theme=github_dark" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veidz&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veidz&show_icons=true&theme=github_dark"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=veidz&show_icons=true&theme=github_dark"/>
 </p>
